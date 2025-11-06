@@ -1,7 +1,9 @@
 # 🛡️ cheat sheet for malware analysts and blue teamers. Includes real-world YARA rules, IOC scanning workflows, memory forensics, and network analysis using tools like Loki, THOR Lite, YAYA, Fenrir, Cuckoo Sandbox, Volatility, Wireshark, and VirusTotal — with actionable commands and expected outputs.
+
 <p align="center">
-  <img src="https://i.ibb.co/qL6MP5ML/IMG-20251106-220341.jpg" alt="YARA Rule Example" width="500"/>
+  <img src="https://i.ibb.co/qL6MP5ML/IMG-20251106-220341.jpg" alt="Description" width="400"/>
 </p>
+
 
 
 
